@@ -1,25 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="400833b3-c13d-429a-b518-ce1225f334a5" name="Changes" comment="class 25 HW">
-      <change afterPath="$PROJECT_DIR$/src/Quiz06_AbstractionAndEncapsulation/Q01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quiz06_AbstractionAndEncapsulation/Q02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quiz06_AbstractionAndEncapsulation/Q03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quiz06_AbstractionAndEncapsulation/Q04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quiz06_AbstractionAndEncapsulation/Q05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quiz06_AbstractionAndEncapsulation/Q06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quiz06_AbstractionAndEncapsulation/Q07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quiz06_AbstractionAndEncapsulation/Q08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quiz06_AbstractionAndEncapsulation/Q09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quiz06_AbstractionAndEncapsulation/Q10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quiz06_AbstractionAndEncapsulation/Q11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quiz06_AbstractionAndEncapsulation/Q12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replitTasks/Task178Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replitTasks/Task179Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replitTasks/Task180Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replitTasks/Task181Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replitTasks/Task182Encapsulation.java" afterDir="false" />
+    <list default="true" id="400833b3-c13d-429a-b518-ce1225f334a5" name="Changes" comment="Quiz 06">
+      <change afterPath="$PROJECT_DIR$/src/practice/lillia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task178Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task178Encapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task179Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task179Encapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task180Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task180Encapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task181Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task181Encapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task182Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task182Encapsulation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667209833176</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Quiz 06">
+      <created>1667212986220</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667212986220</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +96,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="classes" />
     <MESSAGE value="class 25 HW" />
-    <option name="LAST_COMMIT_MESSAGE" value="class 25 HW" />
+    <MESSAGE value="Quiz 06" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quiz 06" />
   </component>
 </project>

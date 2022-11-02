@@ -15,7 +15,7 @@ class EncapsulationDemo {
 
     public void setEmpAge(int empAge){
 
-        this.empAge=30;
+        this.empAge=empAge;
     }
     public void setEmpName(String empName){
 

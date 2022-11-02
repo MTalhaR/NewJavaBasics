@@ -16,17 +16,18 @@ package replitTasks;
 public class Task181Encapsulation {
 }
 class Account{
-    private int acc_no;
+    private long acc_no;
     private String name;
     private String email;
     private double amount;
-    Account(int acc_no,String name,String email,double amount){
+    Account(long acc_no,String name,String email,double amount){
         setAcc_no(acc_no);
         setName(name);
         setEmail(email);
         setAmount(amount);
     }
-    public void setAcc_no(int acc_no){
+    public void setAcc_no(long acc_no){
+
         this.acc_no=acc_no;
     }
     public void setName(String name){
@@ -38,7 +39,7 @@ class Account{
     public void setAmount(double amount){
         this.amount=amount;
     }
-    public int getAcc_no(){
+    public long getAcc_no(){
         System.out.print(acc_no+" ");
         return acc_no;
     }
@@ -60,10 +61,10 @@ class Account{
 }
 class Main181 {
     public static void main(String[] args){
-        /*Account obj=new Account(7560504000, "Sumair","sumair@syntax.com",50000);
+        Account obj=new Account(7560504000l, "Sumair","sumair@syntax.com",50000);
         obj.getAcc_no();
         obj.getName();
         obj.getEmail();
-        obj.getAmount();*/
+        obj.getAmount();
     }
 }

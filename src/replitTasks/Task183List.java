@@ -2,7 +2,7 @@ package replitTasks;
 
 import java.util.ArrayList;
 
-/*Create an array list that will hold String Objects
+        /*Create an array list that will hold String Objects
         Find out wether array list is empty or not.
         Add String value "Syntax" to it
         Find out wether array list is empty or not.*/

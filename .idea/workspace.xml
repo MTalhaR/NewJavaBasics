@@ -2,13 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="400833b3-c13d-429a-b518-ce1225f334a5" name="Changes" comment="repl List">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/wordsNum25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/ArrayListVsLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/TypesOfSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/WhenToUseSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/WhySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/WrapperDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/MapDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/MapDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/MapDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/MapDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/MapDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/MapDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task178Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task178Encapsulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task181Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task181Encapsulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task183List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task183List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task188List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task188List.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667280693286</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="repl List">
+      <created>1667408586924</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667408586924</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

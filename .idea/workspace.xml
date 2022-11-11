@@ -1,11 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="400833b3-c13d-429a-b518-ce1225f334a5" name="Changes" comment="class 26 &amp; 27">
-      <change afterPath="$PROJECT_DIR$/Test.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/excelDemo.java" afterDir="false" />
+    <list default="true" id="400833b3-c13d-429a-b518-ce1225f334a5" name="Changes" comment="excel demo">
+      <change afterPath="$PROJECT_DIR$/src/SelQuiz01/Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelQuiz01/Q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelQuiz01/Q03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelQuiz01/Q04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelQuiz01/Q05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelQuiz01/Q06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelQuiz01/Q07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelQuiz01/Q08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelQuiz01/Q09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelQuiz01/Q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelQuiz01/Q11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelQuiz01/Q12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelQuiz01/Q13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelQuiz01/Q14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelQuiz01/Q15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelQuiz02Waits/Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelQuiz02Waits/Q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelQuiz02Waits/Q03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelQuiz02Waits/Q04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelQuiz02Waits/Q05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelQuiz02Waits/Q06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelQuiz02Waits/Q07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelQuiz02Waits/Q08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelQuiz02Waits/Q09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/sergeyPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replitTasks/Task195Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replitTasks/Task196Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replitTasks/Task197Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replitTasks/Task198Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replitTasks/Task199Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replitTasks/Task200Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replitTasks/Task201Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replitTasks/Task202Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replitTasks/Task203Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replitTasks/Task204Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replitTasks/Task205Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/replitTasks/Task206Map.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NewJavaBasic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NewJavaBasic.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668006931459</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="excel demo">
+      <created>1668080530115</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668080530115</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +171,7 @@
     <MESSAGE value="repl Encapsulation" />
     <MESSAGE value="repl List" />
     <MESSAGE value="class 26 &amp; 27" />
-    <option name="LAST_COMMIT_MESSAGE" value="class 26 &amp; 27" />
+    <MESSAGE value="excel demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="excel demo" />
   </component>
 </project>

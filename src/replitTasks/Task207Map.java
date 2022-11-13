@@ -1,23 +1,20 @@
 package replitTasks;
 
 import java.util.HashMap;
-import java.util.Map;
 
 /*
-Create a Hash Map of String pairs
+Create Hash Map.
 add the follow values
 map.put("ONE","AAA");
 map.put("TWO","BBB");
 map.put("THREE","CCC");
 map.put("FOUR","DDD");
 map.put("FIVE","EEE");
-Using entry set print key and values pairs using loop
-Remove below from Map
-"ONE"
-"FOUR"
-Using entry set print key and values pairs using loop
+Using EntrySet print the key and values pairs using iterator only
+replace with below key THREE--> ASEL and key FIVE-->SUMAIR
+Using EntrySet print the key and values pairs using iterator only
  */
-public class Task206Map {
+public class Task207Map {
     public static void main(String[] args) {
         HashMap<String,String> map=new HashMap<>();
         map.put("ONE","AAA");
@@ -25,15 +22,16 @@ public class Task206Map {
         map.put("THREE","CCC");
         map.put("FOUR","DDD");
         map.put("FIVE","EEE");
-        System.out.println("HashMap Before Remove :");
+        System.out.println("HashMap Before Replace :");
+        var iterator=map.entrySet().iterator();
         var items=map.entrySet();
         for (var item:items) {
             System.out.println(item.getKey()+" : "+item.getValue());
         }
         System.out.println("------------------");
-        map.remove("ONE");
-        map.remove("FOUR");
-        System.out.println("HashMap After Remove :");
+        map.replace("THREE","ASEL");
+        map.replace("FIVE","SUMAIR");
+        System.out.println("HashMap After Replace :");
         var itemsRem=map.entrySet();
         for (var itemRem:itemsRem) {
             System.out.println(itemRem.getKey()+" : "+itemRem.getValue());

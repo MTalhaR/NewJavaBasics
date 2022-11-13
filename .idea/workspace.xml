@@ -1,15 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="400833b3-c13d-429a-b518-ce1225f334a5" name="Changes" comment="class 28">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/HW2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/HW3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/HW4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/HW5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/HW6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/HW7.java" afterDir="false" />
+    <list default="true" id="400833b3-c13d-429a-b518-ce1225f334a5" name="Changes" comment="class 28 HW">
+      <change afterPath="$PROJECT_DIR$/src/Quiz07MapsAndCollections/Q01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz07MapsAndCollections/Q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz07MapsAndCollections/Q03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz07MapsAndCollections/Q04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz07MapsAndCollections/Q05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz07MapsAndCollections/Q06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz07MapsAndCollections/Q07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz07MapsAndCollections/Q08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz07MapsAndCollections/Q09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz07MapsAndCollections/Q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz07MapsAndCollections/Q11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz07MapsAndCollections/Q12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz07MapsAndCollections/Q13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz07MapsAndCollections/Q14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz07MapsAndCollections/Q15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz07MapsAndCollections/Q16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz07MapsAndCollections/Q17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz07MapsAndCollections/Q18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz07MapsAndCollections/Q19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz07MapsAndCollections/Q20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz07MapsAndCollections/Q21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/FileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/MethodsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/ReadingExcelFileDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/ReadingExcelFileDemo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task196Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task196Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task197Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task197Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task198Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task198Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task199Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task199Set.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task200Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task200Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task201Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task201Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task202Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task202Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task203Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task203Map.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668283855105</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="class 28 HW">
+      <created>1668348941760</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668348941760</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +198,7 @@
     <MESSAGE value="excel demo" />
     <MESSAGE value="Selenium quiz" />
     <MESSAGE value="class 28" />
-    <option name="LAST_COMMIT_MESSAGE" value="class 28" />
+    <MESSAGE value="class 28 HW" />
+    <option name="LAST_COMMIT_MESSAGE" value="class 28 HW" />
   </component>
 </project>

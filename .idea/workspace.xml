@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="400833b3-c13d-429a-b518-ce1225f334a5" name="Changes" comment="Selenium quiz">
-      <change afterPath="$PROJECT_DIR$/Data/Demo.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/ExcelDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/ExcelDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/FileDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/MapsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/MapsDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/MapsDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/MapsDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/MapsDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/MapsDemo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/Notes" afterDir="false" />
+    <list default="true" id="400833b3-c13d-429a-b518-ce1225f334a5" name="Changes" comment="class 28">
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/HW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/HW4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/HW5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/HW6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/HW7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668187661241</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="class 28">
+      <created>1668283855105</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668283855105</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +161,7 @@
     <MESSAGE value="class 26 &amp; 27" />
     <MESSAGE value="excel demo" />
     <MESSAGE value="Selenium quiz" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selenium quiz" />
+    <MESSAGE value="class 28" />
+    <option name="LAST_COMMIT_MESSAGE" value="class 28" />
   </component>
 </project>

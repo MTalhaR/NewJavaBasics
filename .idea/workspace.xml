@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="400833b3-c13d-429a-b518-ce1225f334a5" name="Changes" comment="class 29 &amp; Quiz 07">
-      <change afterPath="$PROJECT_DIR$/src/replitTasks/Task207Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replitTasks/Task208Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/replitTasks/Task209Map.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task203Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task203Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task204Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task204Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task205Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task205Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task206Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task206Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task208Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task208Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task209Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task209Map.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

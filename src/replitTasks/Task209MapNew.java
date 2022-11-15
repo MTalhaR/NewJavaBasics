@@ -21,29 +21,28 @@ public class Task209MapNew {
         OrangeMap.put("Quantity",10.0);
         //adding orange Map to dataList
         dataList.add(OrangeMap);
-
         //initializing sum variables to be used inside the loop
         double subtotal=0;
         double sum=0;
 
-        /*var iterator=dataList.iterator();
-        //var iterator = dataList.listIterator();
-        while (iterator.hasNext()){
-            var eachMap = iterator.next();*/
-
         //creating loop for dataList and casting each KEY
             for (var eachMap:dataList) {
+                // getting the value of PRICE key
             Object price = eachMap.get("Price");
+            //casting it to double
             double eachPrice = (double) price;
-
+                // getting the value of Quantity key
             Object quantity = eachMap.get("Quantity");
+                //casting it to double
             double eachQuantity = (double) quantity;
-
+                // getting the value of Items key
             Object items = eachMap.get("Items");
+                //casting it to String
             String item = (String) items;
 
             //calculating subtotal
             subtotal = eachPrice*eachQuantity;
+            // calculating the TOTAL PURCHASE
             sum+=subtotal;
 
             System.out.println("Items: "+item+" Price: "+eachPrice+" Quantity: "+eachQuantity+" SubTotal: "+subtotal);

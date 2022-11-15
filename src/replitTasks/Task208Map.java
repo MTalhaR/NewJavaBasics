@@ -21,7 +21,7 @@ using created display method to display.
 then clear the map.
 use the same method to display*/
 public class Task208Map {
-    void display(Map<String,Integer> obj){
+     static void display(Map<String,Integer> obj){
         if(obj.isEmpty()){
             System.out.println("map is empty");
         } else {
@@ -35,9 +35,8 @@ public class Task208Map {
         map.put("mango", 10);
         map.put("apple", 30);
         map.put("orange", 20);
-        Task208Map object=new Task208Map();
-        object.display(map);
+        display(map);
         map.clear();
-        object.display(map);
+        display(map);
     }
 }

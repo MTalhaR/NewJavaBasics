@@ -24,17 +24,19 @@ public class Task207Map {
         map.put("FIVE","EEE");
         System.out.println("HashMap Before Replace :");
         var iterator=map.entrySet().iterator();
-        var items=map.entrySet();
-        for (var item:items) {
-            System.out.println(item.getKey()+" : "+item.getValue());
+        while (iterator.hasNext()){
+            var items=iterator.next();
+            System.out.println(items.getKey()+" : "+items.getValue());
         }
+
         System.out.println("------------------");
         map.replace("THREE","ASEL");
         map.replace("FIVE","SUMAIR");
         System.out.println("HashMap After Replace :");
-        var itemsRem=map.entrySet();
-        for (var itemRem:itemsRem) {
-            System.out.println(itemRem.getKey()+" : "+itemRem.getValue());
+        var iterator1=map.entrySet().iterator();
+        while (iterator1.hasNext()){
+            var items1=iterator1.next();
+            System.out.println(items1.getKey()+" : "+items1.getValue());
         }
     }
 }

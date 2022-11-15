@@ -34,8 +34,8 @@ public class Task206Map {
         map.remove("ONE");
         map.remove("FOUR");
         System.out.println("HashMap After Remove :");
-        var itemsRem=map.entrySet();
-        for (var itemRem:itemsRem) {
+
+        for (var itemRem: map.entrySet()) {
             System.out.println(itemRem.getKey()+" : "+itemRem.getValue());
         }
     }

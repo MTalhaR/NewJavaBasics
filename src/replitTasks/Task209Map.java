@@ -27,7 +27,7 @@ Your Purchase total : 419.9*/
 public class Task209Map {
     public static void main(String[] args) {
         // creating a List that will contain map
-        LinkedList<Map<String,Object>> dataList=new LinkedList<>();
+        ArrayList<Map<String,Object>> dataList=new ArrayList<>();
         //creating first map called apple and adding items into it
         Map<String,Object> apple=new LinkedHashMap<>();
         apple.put("Items","Apple");

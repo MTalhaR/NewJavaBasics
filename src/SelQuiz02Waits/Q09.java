@@ -7,9 +7,9 @@ Group of answer choices
 
 none of the above
 
-/div[@class=’su-table’]/table/tbody/tr/td[starts-with(name,’sandesh’)].....
+/div[@class=’su-table’]/table/tbody/tr/td[starts-with(name,’sandesh’)]
 
-//div[@class=’su-table’]/table/tbody/tr/td[starts-with(@name,’sandesh’)]
+//div[@class=’su-table’]/table/tbody/tr/td[starts-with(@name,’sandesh’)].....
 
 //div[@class=’su-table’]/table/tbody/tr/td[ends-with(@name,’SanDesh’)]
      */

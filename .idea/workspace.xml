@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="400833b3-c13d-429a-b518-ce1225f334a5" name="Changes" comment="repl 209">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task205Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task205Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task206Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task206Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task207Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task207Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task208Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task208Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/replitTasks/Task209MapNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/replitTasks/Task209MapNew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelQuiz02Waits/Q03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SelQuiz02Waits/Q03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelQuiz02Waits/Q09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SelQuiz02Waits/Q09.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668479331938</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="repl 209">
+      <created>1668533722310</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1668533722310</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

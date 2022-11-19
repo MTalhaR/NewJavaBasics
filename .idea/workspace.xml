@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="400833b3-c13d-429a-b518-ce1225f334a5" name="Changes" comment="sel quiz02">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/ExceptionDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/ExceptionDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/ExceptionDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/TryCatchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/TypesOfExcep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/replerror.java" afterDir="false" />
+    <list default="true" id="400833b3-c13d-429a-b518-ce1225f334a5" name="Changes" comment="class 30">
+      <change afterPath="$PROJECT_DIR$/src/Quiz08Exceptions/Q02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz08Exceptions/Q03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz08Exceptions/Q04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz08Exceptions/Q05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz08Exceptions/Q06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz08Exceptions/Q07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz08Exceptions/Q08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz08Exceptions/Q09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz08Exceptions/Q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz08Exceptions/Q11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quiz08Exceptions/Q12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/class29/FileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class29/FileDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Quiz08Exceptions/Q01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quiz08Exceptions/Q01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668618389846</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="class 30">
+      <created>1668891928230</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1668891928230</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +221,7 @@
     <MESSAGE value="repl Maps" />
     <MESSAGE value="repl 209" />
     <MESSAGE value="sel quiz02" />
-    <option name="LAST_COMMIT_MESSAGE" value="sel quiz02" />
+    <MESSAGE value="class 30" />
+    <option name="LAST_COMMIT_MESSAGE" value="class 30" />
   </component>
 </project>

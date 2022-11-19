@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="400833b3-c13d-429a-b518-ce1225f334a5" name="Changes" comment="repl 209">
+    <list default="true" id="400833b3-c13d-429a-b518-ce1225f334a5" name="Changes" comment="sel quiz02">
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/ExceptionDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/ExceptionDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/ExceptionDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/TryCatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/TypesOfExcep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/replerror.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SelQuiz02Waits/Q03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SelQuiz02Waits/Q03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SelQuiz02Waits/Q09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SelQuiz02Waits/Q09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/class29/FileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/class29/FileDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,19 +38,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Softwares/Apache POI/poi-bin-5.2.3/poi-scratchpad-5.2.3.jar",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Softwares/Apache POI/poi-bin-5.2.3/poi-scratchpad-5.2.3.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Intellij IDEA\NewJavaBasic" />
@@ -167,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668533722310</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="sel quiz02">
+      <created>1668618389846</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1668618389846</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,6 +209,7 @@
     <MESSAGE value="class 29 &amp; Quiz 07" />
     <MESSAGE value="repl Maps" />
     <MESSAGE value="repl 209" />
-    <option name="LAST_COMMIT_MESSAGE" value="repl 209" />
+    <MESSAGE value="sel quiz02" />
+    <option name="LAST_COMMIT_MESSAGE" value="sel quiz02" />
   </component>
 </project>

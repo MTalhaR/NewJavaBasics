@@ -10,7 +10,7 @@ In main method calls method gradeCheck and handle an Exception
 **Expected Output:**
 SyntaxStudentException: You are an exceptionally awesome student */
 public class Task214Exception {
-    public static void gradeCheck(int marks) throws SyntaxStudentException{
+    public static void gradeCheck(int marks) {
         if (marks>90){
             throw new SyntaxStudentException("You are an exceptionally awesome student");
         } else {
@@ -21,13 +21,14 @@ public class Task214Exception {
     public static void main(String[] args) {
         try {
             gradeCheck(95);
-        } catch (SyntaxStudentException e){
+        } catch (Exception e){
             System.out.println(e);
         }
     }
 }
-class SyntaxStudentException extends Exception {
+class SyntaxStudentException extends RuntimeException{
     SyntaxStudentException(String message){
+
         super(message);
     }
 }

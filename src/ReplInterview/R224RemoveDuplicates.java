@@ -7,10 +7,18 @@ package ReplInterview;
     input ["aabbccaddda"]-> output["abcada"] */
 public class R224RemoveDuplicates {
         public static void main(String[] args) {
-            System.out.println("Hello world!");
+
+            System.out.println(removeConsecutiveDuplicates("aabbccaddda"));
         }
 
-        /*public static String removeConsecutiveDuplicates(String input) {
-
-        }*/
+        public static String removeConsecutiveDuplicates(String input) {
+            String duplicates="";
+            String[] letters=input.split("");
+            for (int i = 0; i < letters.length-1; i++) {
+                if((!letters[i].equals(letters[i+1])) || (!duplicates.contains(letters[i]))){
+                    duplicates+=letters[i+1];
+                }
+            }
+            return duplicates;
+        }
 }

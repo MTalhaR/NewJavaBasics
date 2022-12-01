@@ -4,9 +4,18 @@ package ReplInterview;
     input["Syntax is Great"] output["Great is Syntax"] */
 public class R226ReverseString {
     public static void main(String[] args) {
-    System.out.println("Hello world!");
-  }
-   /*public static String reverse(String strToRev){
 
-   } */
+        System.out.println(reverse("Syntax is Great"));
+  }
+   public static String reverse(String strToRev){
+        String rev = "";
+        String[] arr=strToRev.split(" ");
+       for (int i = arr.length-1; i >= 0; i--) {
+           rev+=arr[i]+" ";
+       }
+       /*for (int i = 0; i < arr.length; i++) {
+        rev=arr[i]+" "+rev;
+       }*/
+        return rev.trim();
+   }
 }

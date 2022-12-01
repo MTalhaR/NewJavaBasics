@@ -32,24 +32,3 @@ public class R217CountDuplicateNumbers {
             return size;
         }
 }
-
-class Repl217{
-    public static ArrayList<Integer> numbers;
-    public static void main(String[] args ){
-        numbers=new ArrayList<>();
-        numbers.add(12);
-        numbers.add(12);
-        numbers.add(7);
-        numbers.add(7);
-        numbers.add(7);
-        numbers.add(7);
-        numbers.add(7);
-        System.out.println(countDuplicates(numbers));
-    }
-    static int countDuplicates(List<Integer> numbers){
-        HashSet<Integer> num=new HashSet<>();
-        num.addAll(numbers);
-        int size=num.size();
-        return size;
-    }
-        }

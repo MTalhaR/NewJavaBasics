@@ -1,31 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="400833b3-c13d-429a-b518-ce1225f334a5" name="Changes" comment="repl exceptions">
-      <change afterPath="$PROJECT_DIR$/src/ReplInterview/R215BalancedParanthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplInterview/R216ArraySumToZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplInterview/R217CountDuplicateNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplInterview/R218CountWithWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplInterview/R219CountOnlyPrefixes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplInterview/R220FormatString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplInterview/R221LargestEvenLengthString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplInterview/R222MaxSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplInterview/R223PrintPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplInterview/R224RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplInterview/R225ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplInterview/R226ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReplInterview/R227HTMLTagChecked.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SelQuiz03ScreenshotActions/Q01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SelQuiz03ScreenshotActions/Q02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SelQuiz03ScreenshotActions/Q03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SelQuiz03ScreenshotActions/Q04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SelQuiz03ScreenshotActions/Q05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SelQuiz03ScreenshotActions/Q06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SelQuiz03ScreenshotActions/Q07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SelQuiz03ScreenshotActions/Q08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SelQuiz03ScreenshotActions/Q09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SelQuiz03ScreenshotActions/Q10.java" afterDir="false" />
+    <list default="true" id="400833b3-c13d-429a-b518-ce1225f334a5" name="Changes" comment="sel quiz 03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReplInterview/R217CountDuplicateNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReplInterview/R217CountDuplicateNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReplInterview/R220FormatString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReplInterview/R220FormatString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReplInterview/R221LargestEvenLengthString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReplInterview/R221LargestEvenLengthString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669138215786</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="sel quiz 03">
+      <created>1669395494175</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1669395494175</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,6 +243,7 @@
     <MESSAGE value="class 30" />
     <MESSAGE value="Quiz 08, Exceptions" />
     <MESSAGE value="repl exceptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="repl exceptions" />
+    <MESSAGE value="sel quiz 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="sel quiz 03" />
   </component>
 </project>

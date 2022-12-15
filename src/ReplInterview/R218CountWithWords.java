@@ -1,5 +1,6 @@
 package ReplInterview;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
     /*
@@ -20,74 +21,28 @@ import java.util.List;
     output [switch, tv]
      */
 public class R218CountWithWords {
-    public static void main(String[] args) {
-
-    }
-
-
-
-    public static List<String> countDeviceNames(List<String> deviceNames) {
-
-
-
-        String[] uniqueNames = new String[deviceNames.size()];
-
-        for (int i = 0; i < deviceNames.size(); i++) {
-
-            String name = deviceNames.get(i);
-            boolean duplicate = false;
-            for (int j = 0; j < i; j++) {
-
-                if (uniqueNames[j].equals(name)) {
-                    duplicate = true;
-                    break;
-                }
-
-            }
-
-            if (!duplicate) {
-
-                uniqueNames[i] = name;
-
-            } else {
-
-
-                int id = 1;
-
-                boolean exists = true;
-
-
-                while (exists) {
-
-
-                    exists = false;
-
-
-                    for (int j = 0; j < i; j++) {
-
-                        if (uniqueNames[j].equals(name + id)) {
-
-                            exists = true;
-
-                            id++;
-
-
-                            break;
-
-                        }
-
-                    }
-
-                }
-
-
-                uniqueNames[i] = name + id;
-
-            }
-
+        public static void main(String[] args) {
+            List<String> words = new ArrayList<>();
+            words.add("switch");
+            words.add("tv");
+            words.add("switch");
+            words.add("tv");
+            words.add("switch");
+            words.add("tv");
+            words.add("radio");
+            System.out.println(words);
+            System.out.println(countDeviceNames(words));
         }
-
-        return Arrays.asList(uniqueNames);
-
-    }
+        public static List<String> countDeviceNames(List<String> deviceNames) {
+            for (int i = 0; i < deviceNames.size(); i++) {
+                int number=1;
+                for (int j = i + 1; j < deviceNames.size(); j++) {
+                    if (deviceNames.get(i) == deviceNames.get(j)) {
+                        deviceNames.set(j,deviceNames.get(j)+(number));
+                        number++;
+                    }
+                }
+            }
+            return deviceNames;
+        }
 }

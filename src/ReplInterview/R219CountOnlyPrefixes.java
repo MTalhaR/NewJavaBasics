@@ -1,5 +1,6 @@
 package ReplInterview;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /*
@@ -19,11 +20,42 @@ import java.util.List;
      */
 public class R219CountOnlyPrefixes {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        List<String> arr = new ArrayList<>();
+        arr.add("steve");
+        arr.add("stevens");
+        arr.add("danny");
+        arr.add("steves");
+        arr.add("dan");
+        arr.add("john");
+        arr.add("johny");
+        arr.add("joe");
+        arr.add("alex");
+        arr.add("alexander");
+
+        List<String> test = new ArrayList<>();
+        test.add("steve");
+        test.add("alex");
+        test.add("joe");
+        test.add("dan");
+        test.add("john");
+
+        System.out.println(countOnlyPrefixes(arr, test));
     }
 
-        /*public static List<Integer> countOnlyPrefixes(List<String> names, List<String> query){
+    public static List<Integer> countOnlyPrefixes(List<String> names, List<String> query) {
 
+        List<Integer> prefixes=new ArrayList<>();
+        for (int i=0;i<query.size();i++){
+            int count=0;
+            for (int h=0;h<names.size();h++){
+                if(names.get(h).startsWith(query.get(i))&& !names.get(h).equalsIgnoreCase(query.get(i))){
+                    count++;
+                }
+            }
+            prefixes.add(count);
+        }
+        return prefixes;
 
-        }*/
+    }
+
 }

@@ -9,7 +9,7 @@ public class Task46WhileLoop {
 		while (num<=8) {
 			System.out.println(num);
 			num++;
-		}
+				}
 		
 		
 	}

@@ -21,7 +21,7 @@ public class Task80Arrays2D {
 				double newValues=values*2;
 				System.out.print(newValues+" ");
 			}
-			System.out.println();
+			System.out.println("talha");
 		}
 		
 	}

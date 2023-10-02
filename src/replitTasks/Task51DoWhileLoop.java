@@ -10,7 +10,7 @@ public class Task51DoWhileLoop {
 		do {
 			System.out.println(i);
 			i++;
-		} while(i<20);
+		} while(i<=20);
 		
 		
 		

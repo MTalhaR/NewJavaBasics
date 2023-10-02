@@ -10,6 +10,21 @@ public class Task115JavaMethods {
         return newstr;
     }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     public static void main(String[] args) {
         Task115JavaMethods newstr=new Task115JavaMethods();
 

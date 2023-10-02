@@ -29,7 +29,7 @@ public class Task35LogicalOperators {
 			if (creditScore<600) {
 				System.out.println("The eligibility is Not eligible");
 			}
-			else if(creditScore>=600 && creditScore<=700) {
+			else if(creditScore>=600 || creditScore<=700) {
 				System.out.println("The eligibility is Maybe eligible");
 			}
 			else if (creditScore>=701 && creditScore<=800) {

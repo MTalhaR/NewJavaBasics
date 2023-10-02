@@ -21,12 +21,13 @@ public class R216ArraySumToZero {
             return num;
         }
         public static void main(String[]args){
+
             System.out.println(Arrays.toString(arraySumToZero(3)));
         }
 }
 
 class Main {
-    public static int[] arraySumToZero(int N) {
+    /*public static int[] arraySumToZero(int N) {
         int[] array = new int[N];
         for (int i=0; i< N; i+=2)  {
             array[i] =N/2 + i/2;
@@ -35,7 +36,18 @@ class Main {
             else array[i] = 0;
         }
         return array;
+    }*/
+
+    public static int[] arraySumToZero(int N) {
+        int [] arr= new int[N];
+        for (int i = 0; i < N; i++) {
+            //{-1,1}
+            arr[i] += (i *2)+(-N + 1);
+            System.out.println(arr[i]);
+        }
+        return arr;
     }
+
     public static void main(String[] args) {
         System.out.println(Arrays.toString(arraySumToZero(0)));
         System.out.println(Arrays.toString(arraySumToZero(1)));

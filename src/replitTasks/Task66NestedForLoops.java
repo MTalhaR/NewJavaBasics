@@ -10,6 +10,7 @@ public class Task66NestedForLoops {
 				System.out.println("syntax");
 				System.out.println("");
 			}
+			System.out.println("asel");
 		}
 	}
 

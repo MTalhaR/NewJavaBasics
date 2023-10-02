@@ -15,15 +15,28 @@ public class Task99StringManipulations {
     Your program will print out "true" if it's a palindrome and "false" if not.
      */
     public static void main(String[] args) {
-            Scanner inp = new Scanner(System.in);
-            System.out.print("In:");
-            String givenString = inp.nextLine();
-            String reverse="";
-            for (int i=givenString.length()-1; i>=0; i--){
-                reverse=reverse+givenString.charAt(i);
+//            Scanner inp = new Scanner(System.in);
+//            System.out.print("In:");
+//            String givenString = inp.nextLine();
+//            String reverse="";
+//            for (int i=givenString.length()-1; i>=0; i--){
+//                reverse=reverse+givenString.charAt(i);
+//            }
+//        System.out.println(reverse);
+//            if (givenString.equals(reverse)){System.out.println("true");}
+//            else {System.out.println("false");}
+//      String str= "talha";
+//
+//            System.out.println(str.charAt(2));
+        for (int i = 0; i < 4; i++) {
+            System.out.println("talha");
+            System.out.println();
+            if (i == 3) {
+                System.out.println("loop has ended");
             }
-        System.out.println(reverse);
-            if (givenString.equals(reverse)){System.out.println("true");}
-            else {System.out.println("false");}
+        }
+        //System.out.println("");
+
     }
+
 }

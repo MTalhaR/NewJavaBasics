@@ -12,12 +12,12 @@ public class Task70Arrays {
 		 */
 		
 		int[] num= {45, 78, 12, 67, 55};
-		System.out.println(num[0]+" "+num[1]+" "+num[2]+" "+num[3]+" "+num[4]);
+		//System.out.println(num[0]+" "+num[1]+" "+num[2]+" "+num[3]+" "+num[4]);
 		
 		System.out.println("---------------");
 		
 		for(int i=0; i<num.length; i++) {
-			System.out.print(num[i]+" ");
+			System.out.print(num[3]+" ");
 		}
 	}
 }

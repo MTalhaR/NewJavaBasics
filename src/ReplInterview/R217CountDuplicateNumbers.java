@@ -14,15 +14,15 @@ public class R217CountDuplicateNumbers {
             numbers.add(12);
             numbers.add(7);
             numbers.add(7);
-            numbers.add(7);
-            numbers.add(7);
+            numbers.add(8);
+            numbers.add(8);
             numbers.add(7);
             System.out.println(countDuplicates(numbers));
         }
         static int countDuplicates(List<Integer> numbers){
             HashSet<Integer> num=new HashSet<>();
                 for (int i = 0; i < numbers.size(); i++) {
-                    for (int j = 0; j < i; j++) {
+                    for (int j = i+1; j < numbers.size(); j++) {
                         if (numbers.get(i)==numbers.get(j)){
                             num.add(numbers.get(i));
                         }
@@ -31,4 +31,15 @@ public class R217CountDuplicateNumbers {
             int size=num.size();
             return size;
         }
+
+    /*static int countDuplicates(List<Integer> numbers){
+        int firstNumber=numbers.get(0);
+        int count=0;
+        for(var i=0; i<numbers.size(); i++) {
+            if(numbers.get(i) == firstNumber) {
+                count++;
+            }
+        }
+        return count;
+    }*/
 }

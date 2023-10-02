@@ -15,6 +15,6 @@ public class Task93StringManipulations {
         System.out.println(str.indexOf("c"));
         System.out.println(str.indexOf(" "));
         System.out.println(str.indexOf(target1));
-        System.out.println(str.indexOf(target2));
+        System.out.println(str.indexOf("f"));
     }
 }

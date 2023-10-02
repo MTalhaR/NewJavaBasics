@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
     /*
-    Count the number of repetations of words in an ArrayList append that count and return that list.
+    Count the number of repetations of words in an ArrayList append (add) that count and return that list.
     You need to implent a function countDeviceNames that takes an ArrayList as an input and returns an ArrayList
     input ["switch","tv","switch","tv","switch","tv"]
     output [switch, tv, switch1, tv1, switch2, tv2]
